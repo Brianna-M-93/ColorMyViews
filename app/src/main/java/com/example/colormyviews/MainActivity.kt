@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.activity_main.view.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -46,4 +45,5 @@ class MainActivity : AppCompatActivity() {
             else -> view.setBackgroundColor(Color.LTGRAY)   //this is like a hint if a box isn't touched
         }
     }
+
 }
