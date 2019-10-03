@@ -1,38 +1,41 @@
-# <name of app>
+# ColorMyViews
 
 An Android application based on Piet Mondrian artwork that allows you to color different boxes with screen taps.
 
-Submitted by: <name>
+Submitted by: Brianna Magnuson
 
-Time spent: <time>
+Time spent: 1.5 - 2 hours
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Implement ConstraintLayout with manually defined constraints.
-* [ ] Use chaining to align TextViews.
-* [ ] Use baseline constraints to align text.
-* [ ] Change color of boxes and background by tapping screen and buttons.
+* [x] Implement ConstraintLayout with manually defined constraints.
+* [x] Use chaining to align TextViews.
+* [x] Use baseline constraints to align text.
+* [x] Change color of boxes and background by tapping screen and buttons.
 
 The following **additional** features are implemented:
 
-* [ ] Maintain UI state when switching orientation from portrait to landscape.
+* [x] Maintain UI state when switching orientation from portrait to landscape.
 * [ ] Replace TextViews with actual artwork.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='Color My Views animated demo' alt='Color My Views demo' />
+<img src='color_my_views_demo.gif' title='Color My Views animated demo' alt='Color My Views demo' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+"I have a slower computer, so my challenge was testing code to maintain the UI when the orientation is changed.
+While testing different code my emulator would crash. Other than that, no challenges."
+
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 Brianna Magnuson
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
